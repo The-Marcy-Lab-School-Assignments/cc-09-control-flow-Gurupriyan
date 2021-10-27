@@ -16,7 +16,7 @@ betweenFiveAndTen(5) //returns true
 betweenFiveAndTen(15) //returns false 
 ```
 
-2. Create a function `betweenTenAndThirty` that takes in an integer, and if that integer is between 10 and 30 it will return true or false.
+2. Create a function `betweenTenAndThirty` nthat takes in an integer, and if that integer is between 10 and 30 it will return true or false.
 ```
 betweenTenAndThirty(10) //returns false
 betweenTenAndThirty(15) //returns true
